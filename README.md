@@ -14,5 +14,5 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install weichat_rails
+    $ gem install weixin_rails_api
 
