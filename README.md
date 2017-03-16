@@ -1,6 +1,7 @@
 # WeichatRails
 
-对https://api.weixin.qq.com/cgi-bin/下所有接口进行封装
+https://api.weixin.qq.com/cgi-bin/
+下所有接口封装
 
 ## 安装
 
