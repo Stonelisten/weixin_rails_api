@@ -1,8 +1,8 @@
 # WeichatRails
 
-微信接口封装
+对https://api.weixin.qq.com/cgi-bin/下所有接口进行封装
 
-## Installation
+## 安装
 
 Add this line to your application's Gemfile:
 
